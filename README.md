@@ -1,4 +1,4 @@
-# Seja bem vindo! 👋
+# Seja bem vindo(a)! 👋
 [![Linkedin](https://github.com/caioandre15/caioandre15/blob/master/linkedin.svg)](https://www.linkedin.com/in/caio-a-599115a7)
 ## **Caio André** 
 ### Desenvolvedor Java Jr :coffee:
