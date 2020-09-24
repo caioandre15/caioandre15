@@ -1,4 +1,11 @@
-### Seja bem vindo! 👋
+# Seja bem vindo! 👋
+[![Linkedin](https://github.com/caioandre15/caioandre15/blob/master/linkedin.svg)](https://www.linkedin.com/in/caio-a-599115a7)
+## **Caio André** 
+### Desenvolvedor Java Jr :coffee:
+* Busco sempre **evoluir**, com humildade e foco nos estudos :rocket::books: 
+* Me considero **proativo** e **esforçado**.:muscle:
+* Atualmente tenho focado meus estudos em: **Java** e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB.
+
 
 <!--
 **caioandre15/caioandre15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
