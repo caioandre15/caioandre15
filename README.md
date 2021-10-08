@@ -4,7 +4,6 @@
 ### Desenvolvedor Java Jr :coffee:
 * Busco sempre **evoluir** com humildade e foco nos estudos :rocket::books: 
 * Me considero **proativo** e **esforçado**.:muscle:
-* Atualmente tenho focado meus estudos em: **Java** e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB.
 
 
 <!--
