@@ -1,7 +1,7 @@
 # Seja bem vindo(a)! 👋
 [![Linkedin](https://github.com/caioandre15/caioandre15/blob/master/linkedin.svg)](https://www.linkedin.com/in/caio-a-599115a7)
 ## **Caio André** 
-### Desenvolvedor Java Jr :coffee:
+### Desenvolvedor Jr:coffee:
 * Busco sempre **evoluir** com humildade e foco nos estudos :rocket::books: 
 * Me considero **proativo** e **esforçado**.:muscle:
 
